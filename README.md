@@ -2,11 +2,11 @@
 
 ![](./img/spring-shell.png) ![](./img/plus.png) ![](./img/spring-boot.png)
 
-Spring Shell 2 Examples with Tests
-========================================
+Spring Shell 2 and Spring Boot 2 Examples with Tests
+=====================================================
 
 [Spring Shell 2.0.0](https://docs.spring.io/spring-shell/docs/2.0.0.M2/reference/htmlsingle/#_getting_started) 
-with [Spring Boot 2.0.0](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/htmlsingle/) examples along with unit and integration testings.
+with [Spring Boot 2.0.0](https://docs.spring.io/spring-boot/docs/2.0.0.M5/reference/htmlsingle/) examples along with unit and integration tests.
 
 ### Build
 Execute the following command from the parent directory to build the jar file:
