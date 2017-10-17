@@ -1,6 +1,6 @@
 [![Build Status][travis-badge]][travis-badge-url]
 
-![](./img/spring-shell.png)
+![](./img/spring-shell.png) ![](./img/plus.png) ![](./img/spring-boot.png)
 
 Spring Shell 2 Examples with Tests
 ========================================
